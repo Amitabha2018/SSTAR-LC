@@ -80,7 +80,7 @@ If you find the code useful in your research, please consider citing our paper:
  } 
 ```
 
-Note: Our implementation uses parts of some public codes [1-3].
+Note: Our implementation references parts of some public codes [1-3].
 
 [1] Co-teaching [https://github.com/bhanML/Co-teaching](https://github.com/bhanML/Co-teaching)
 
