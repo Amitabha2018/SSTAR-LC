@@ -14,7 +14,16 @@ XXXXXXXXXXXX.
 - pytorch
 - tqdm
 
+### Dataset Download
+
+Help you to get dataset easily
+```python
+python DataDownload.py
+```
+
+
 ### Usage
+
 Example runs on CIFAR100 dataset with symmetric noise:
 ```
 python main_cifar.py --theta_r 0.8 --noise_mode sym --noise_ratio 0.9 --dataset cifar100 --dataset_path path_to_cifar100
